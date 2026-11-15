@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim Alsulwi 👋
 
-### 🛡️ Cybersecurity Student | SOC Analyst | Malware Analysis Enthusiast
+### 🛡️ Cybersecurity Engineer | SOC Analyst | Malware Analysis Enthusiast
 
 **Threat Detection • Incident Investigation • Digital Forensics • Reverse Engineering**
 
